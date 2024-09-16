@@ -4,18 +4,18 @@ Welcome to the repository containing four data analysis projects developed durin
 
 
 
-### 1. Project One: [User Behavior Analysis]
+### 1. First Project: User Behavior Analysis
 This project analyzes user behavior using a dataset containing information on program interactions. The dataset includes columns for user IDs, program names, durations, and more. The goal is to identify patterns in user engagement and preferences.
 
 
-### 2. Project Two: [Predicting Customer Behavior]
+### 2. Second Project: Predicting Customer Behavior
 This project focuses on predicting user behavior for the next two months using the Prophet algorithm. By analyzing historical user interaction data, the model forecasts future engagement trends, helping to identify anticipated user preferences and behaviors.
 
 
-### 3. Project Three: [Recommendation Systems]
+### 3. Third Project: Recommendation Systems
 Theis project is designed to analyze user behavior and preferences in consuming movies and TV shows. By utilizing a dataset that details customer interactions with various programs, this project aims to build a recommendation engine that suggests personalized content to users on the Jawwy platform.
 
-### 4. Project Four: [Data Representation]
-Showcase the findings
+### 4. Fourth Project: Data Representation
+Showcase the findings.
 
 
