@@ -13,7 +13,7 @@ This project focuses on predicting user behavior for the next two months using t
 
 
 ### Third Task: Recommendation Systems
-Theis project is designed to analyze user behavior and preferences in consuming movies and TV shows. By utilizing a dataset that details customer interactions with various programs, this project aims to build a recommendation engine that suggests personalized content to users on the Jawwy platform.
+This project is designed to analyze user behavior and preferences in consuming movies and TV shows. By utilizing a dataset that details customer interactions with various programs, this project aims to build a recommendation engine that suggests personalized content to users on the Jawwy platform.
 
 ### Fourth Task: Data Representation
 Showcase the findings.
